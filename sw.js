@@ -2,10 +2,10 @@
 const CACHE_NAME = 'navarasu-portfolio-v1';
 const urlsToCache = [
   '/',
-  '/navarasu/img/navarasu_desktop.avif',
-  '/navarasu/img/navarasu_tab.avif',
-  '/navarasu/img/navarasu_mob.avif',
-  '/navarasu/img/navarasu.webp',
+  './navarasu/img/navarasu_desktop.avif',
+  './navarasu/img/navarasu_tab.avif',
+  './navarasu/img/navarasu_mob.avif',
+  './navarasu/img/navarasu.webp',
   '/loader/img1.png',
   '/loader/img2.png',
   '/loader/img3.png',
